@@ -1,9 +1,5 @@
 # Star-Wars-Vue
 
-# test
-
-> test
-
 ## Build Setup
 
 ``` bash
