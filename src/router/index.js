@@ -12,6 +12,7 @@ export default new Router({
       name: 'HelloWorld',
       component: HelloWorld
     },
+    // this doesn't make sense. The path for both these routes is '/'. When the router receives a path of '/' it'll probably default to one or the other (likely the last one listed)... 
     {
       path: '/',
       name: 'film',
